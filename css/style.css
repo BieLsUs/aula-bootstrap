@@ -1,0 +1,63 @@
+.navbar {
+    background-color: #17202A;
+    padding-bottom: 60px;
+}
+
+.Nossa-impresa{
+    background-color: #34495E;
+    padding: 35px;
+    padding-top: 100px;
+}
+
+.equipe {
+    margin-top:60px;
+    margin-bottom: 70px;
+    color: black;
+}
+
+.equipe2 {
+    margin-top:60px;
+    margin-bottom: 70px;
+    color: black;
+}
+
+.time {
+    margin-top:60px;
+    margin-bottom: 70px;
+    color: black;
+}
+
+.conteudos {
+    background-color: #566573;
+    padding-top: 50px;
+}
+
+.conteudo1 {
+    margin-bottom: 100px;
+    margin-top: 80px;
+    color: white;
+}
+
+.conteudo2 {
+    margin-bottom: 100px;
+    margin-top: 80px;
+    color: white;
+}
+
+.contato {
+    background-color: #85929E ;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.contatoimg {
+    margin-top: 60px;
+    margin-bottom: 65px;
+}
+
+.GBA {
+    background-color: black;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
